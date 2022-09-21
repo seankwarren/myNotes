@@ -5,11 +5,13 @@
 --> Clone the repository using the command below:
 ```bash
 git clone https://github.com/seankwarren/myNotes.git
+
 ```
 
 --> Move into the directory where we have the project files:
 ```bash
 cd myNotes
+
 ```
 
 --> Create a virtual environment :
@@ -28,9 +30,7 @@ python -m venv env
 source env/bin/activate
 ```
 
-#
-
-###Running The App
+### Running The App
 
 --> To run the Notes App, use :
 ```bash
