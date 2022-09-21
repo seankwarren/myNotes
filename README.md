@@ -1,9 +1,8 @@
 <div align='center'>
-# myNotes
-A React + Django Notes App
+# React & Django Notes App
 </div>
 
-###Cloning the repository
+### Cloning the repository
 
 --> Clone the repository using the command below:
 ```bash
